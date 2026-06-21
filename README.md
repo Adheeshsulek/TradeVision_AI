@@ -1,6 +1,6 @@
 # TradeVision AI
 
-TradeVision AI is an AI-powered stock market analysis platform built using Python, Streamlit, Plotly, OpenCV, Pandas, NumPy, and Yahoo Finance.
+TradeVision AI is an AI powered stock market analysis platform built using Python, Streamlit, Plotly, OpenCV, Pandas, NumPy, and Yahoo Finance.
 
 ## Features
 
@@ -76,11 +76,11 @@ streamlit run app.py
 ## Future Improvements
 
 * Machine Learning Based Trend Prediction
-* Real-Time Market Data
+* Real Time Market Data
 * PDF Trade Report Export
 * Advanced Chart Recognition
 * Deep Learning Pattern Detection
-* Multi-Timeframe Analysis
+* Multi Timeframe Analysis
 
 ## Author
 
